@@ -7,7 +7,7 @@ Este projeto desenvolvido em Java, permite administrar uma conta corrente de um 
 
 
 # 📲 Como Acessar o Aplicativo
-Para utilizar o aplicativo, click no link já publicado: https://challenge-amigo-secreto-six-beryl.vercel.app/
+Para utilizar o aplicativo, faça o download do projeto no GitHub e utilize uma IDE - IntelliJ ou VS Code.
 
 
 # ☑️ O Que Vem no Aplicativo
@@ -24,13 +24,12 @@ O aplicativo possui:<br>
        4. click no botão 'Sortear Amigo' para que o sistema Selecione o Amigo Secreto.
 
 # 💻 Tecnologias
-* HTML
-* CSS
-* JavaScript
-  - variáveis;
-  - arrays;
-  - funções; e
-  - condicionais.
+* Java
+* Variáveis
+* Operadores Lógicos
+* loops
+* Classes
+  - Scanner;
 
 
 # 📖 TO DO

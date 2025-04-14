@@ -3,7 +3,7 @@ Este projeto desenvolvido em Java, permite administrar uma conta corrente de um 
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="assets/figA.png" width="235">&emsp;<img src="assets/figB.png" width="243">&emsp;<img src="assets/figC.png" width="238">
+<img src="figs/figA.png" width="235">&emsp;<img src="figs/figB.png" width="243">&emsp;<img src="figs/figC.png" width="238">
 
 
 # 📲 Como Acessar o Aplicativo

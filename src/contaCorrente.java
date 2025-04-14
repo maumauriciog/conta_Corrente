@@ -1,4 +1,4 @@
-import javax.swing.plaf.synth.SynthOptionPaneUI;
+
 import java.util.Scanner;
 
 public class contaCorrente {
@@ -45,13 +45,12 @@ public class contaCorrente {
                     if (valor > soldBanck){
                         System.out.println("OPERAÇÃO NÃO REALIZADA!");
                         System.out.println("Saldo Insuficiente para transferência, consulte seu saldo...");
-                        break;
                     } else {
                         soldBanck -= valor;
                         System.out.println("VALOR TRANSFERIDO COM SUCESSO!");
                         System.out.println("Saldo Conta Corrente Atualizado: R$ " + soldBanck);
-                        break;
                     }
+                    break;
             }
             if (option < 1 || option > 4){
                 System.out.println("Opção inválida...");
